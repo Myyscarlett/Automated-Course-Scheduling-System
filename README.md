@@ -1,9 +1,10 @@
 # Minverva Helper: Automated Course Scheduling System
 
-This repository contains the python code, row data and report for the project-Minverva Helper.It is the Final project for the McGill course: Decision Analytics.
+This repository includes the Python code, raw data, and report for the "Minerva Helper" project, leveraging machine learning and optimization techniques to streamline the course selection process. It is the final project for the McGill University course: Decision Analytics.
 
 ## Overview
-The Minverva Helper leverages machine learning and optimization techniques to streamline the course selection process. The goal is to recommend an optimal set of courses based on user-defined preferences, constraints, and historical data.
+
+The "Minerva Helper" project uses machine learning and optimization techniques to simplify the course selection process. It recommends an optimal set of courses based on user preferences, constraints, and historical data. Features include automated course recommendations, schedule optimization, historical analysis, and user-defined constraints like preferred times and instructors.
 
 ## Features
 - **Automated Course Recommendation**: Uses a weighted scoring model to rank courses based on user preferences.
