@@ -1,4 +1,4 @@
-# Minverva Helper: Automated Course Scheduling System
+# Minerva Helper: Automated Course Scheduling System
 
 This repository includes the Python code, raw data, and report for the "Minerva Helper" project, leveraging machine learning and optimization techniques to streamline the course selection process. It is the final project for the McGill University course: Decision Analytics.
 
